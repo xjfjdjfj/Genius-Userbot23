@@ -14,7 +14,7 @@ psutil
 requests
 rich
 dnspython
-yt-dlp==2021.11.10.1
+git+https://github.com/ADITYAxSERVER/downloader
 tgcrypto
 gitpython
 heroku3
